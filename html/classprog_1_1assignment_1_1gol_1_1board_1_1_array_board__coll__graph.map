@@ -1,0 +1,8 @@
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1board_1_1_abstract_board.html" title="{prog.assignment.gol.board.AbstractBoard\n||}" alt="" coords="5,381,272,461">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html" title="{prog.assignment.gol.board.Board\n||+ getXSize()\l+ getYSize()\l+ copyStateFrom()\l+ initializeFromSize()\l+ copyStateFrom()\l+ getCell()\l+ display()\l+ pruneBoard()\l+ toString()\l}" alt="" coords="29,5,248,213">
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1board_1_1_cell.html" title="{prog.assignment.gol.board.Cell\n|&#45; position\l&#45; state\l&#45; neighbours\l|+ Cell()\l+ setPoint()\l+ getPosition()\l+ setState()\l+ switchState()\l+ getState()\l+ isAlive()\l+ isDead()\l+ addNeighbour()\l+ getNeighbourCount()\l+ toString()\l+ geInstance()\l}" alt="" coords="296,277,501,565">
+<area shape="rect" title="cellMatrix" alt="" coords="349,561,357,569">
+<area shape="rect" title="cellMatrix" alt="" coords="329,625,337,633">
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1board_1_1_point.html" title="{prog.assignment.gol.board.Point\n|+ x\l+ y\l|+ Point()\l+ toString()\l}" alt="" coords="292,53,505,165">
+<area shape="rect" title="position" alt="" coords="395,161,403,169">
+<area shape="rect" title="position" alt="" coords="395,273,403,281">

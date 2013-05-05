@@ -1,0 +1,9 @@
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#cdde70e568bc299f43dd26d0306fd03b" title="prog.assignment.gol.board.Board.display" alt="" coords="685,5,949,32">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1_input_handler.html#9f9ef22835669832ed5891923a453856" title="prog.assignment.gol.InputHandler.parseInput" alt="" coords="311,56,599,83">
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1_game_of_life.html#0b73e86526a879f6467d7bc4822e2ed1" title="prog.assignment.gol.GameOfLife.printUsage" alt="" coords="312,107,597,133">
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1_game_of_life.html#e718fe3119c8b6dc54bb687a6eea933e" title="prog.assignment.gol.GameOfLife.processGens" alt="" coords="304,157,605,184">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#535b52744f23f209a530a6df7525e74a" title="prog.assignment.gol.board.Board.copyStateFrom" alt="" coords="660,56,975,83">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#fc6ea1e0c8ff5105617a51fe80d4b5b0" title="prog.assignment.gol.board.Board.getXSize" alt="" coords="680,107,955,133">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#1f0c571b80b23547d8ad99b77b44761b" title="prog.assignment.gol.board.Board.getYSize" alt="" coords="680,157,955,184">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#e1d1dbc4e231f8423ff0535f560fe569" title="prog.assignment.gol.board.Board.initializeFromSize" alt="" coords="653,208,981,235">
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1board_1_1_cell.html#43968867d82055bacfb6465017cf3b71" title="prog.assignment.gol.board.Cell.switchState" alt="" coords="679,259,956,285">

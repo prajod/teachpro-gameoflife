@@ -1,0 +1,2 @@
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1board_1_1_abstract_board.html" title="{prog.assignment.gol.board.AbstractBoard\n||}" alt="" coords="8,261,275,341">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html" title="{prog.assignment.gol.board.Board\n||+ getXSize()\l+ getYSize()\l+ copyStateFrom()\l+ initializeFromSize()\l+ copyStateFrom()\l+ getCell()\l+ display()\l+ pruneBoard()\l+ toString()\l}" alt="" coords="32,5,251,213">

@@ -1,0 +1,6 @@
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#535b52744f23f209a530a6df7525e74a" title="prog.assignment.gol.board.Board.copyStateFrom" alt="" coords="361,5,676,32">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#cdde70e568bc299f43dd26d0306fd03b" title="prog.assignment.gol.board.Board.display" alt="" coords="387,56,651,83">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#fc6ea1e0c8ff5105617a51fe80d4b5b0" title="prog.assignment.gol.board.Board.getXSize" alt="" coords="381,107,656,133">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#1f0c571b80b23547d8ad99b77b44761b" title="prog.assignment.gol.board.Board.getYSize" alt="" coords="381,157,656,184">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html#e1d1dbc4e231f8423ff0535f560fe569" title="prog.assignment.gol.board.Board.initializeFromSize" alt="" coords="355,208,683,235">
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1board_1_1_cell.html#43968867d82055bacfb6465017cf3b71" title="prog.assignment.gol.board.Cell.switchState" alt="" coords="380,259,657,285">

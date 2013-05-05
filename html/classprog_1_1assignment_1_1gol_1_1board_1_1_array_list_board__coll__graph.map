@@ -1,0 +1,5 @@
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1board_1_1_abstract_board.html" title="{prog.assignment.gol.board.AbstractBoard\n||}" alt="" coords="5,320,272,400">
+<area shape="rect" href="$interfaceprog_1_1assignment_1_1gol_1_1board_1_1_board.html" title="{prog.assignment.gol.board.Board\n||+ getXSize()\l+ getYSize()\l+ copyStateFrom()\l+ initializeFromSize()\l+ copyStateFrom()\l+ getCell()\l+ display()\l+ pruneBoard()\l+ toString()\l}" alt="" coords="29,5,248,213">
+<area shape="rect" href="$classprog_1_1assignment_1_1gol_1_1board_1_1_list_of_list.html" title="{prog.assignment.gol.board.ListOfList\n|&#45; list\l&#45; xSize\l&#45; ySize\l|+ getXSize()\l+ getYSize()\l+ ListOfList()\l+ getCell()\l+ prune()\l+ toString()\l}" alt="" coords="296,264,536,456">
+<area shape="rect" title="cellMatrix" alt="" coords="388,452,396,460">
+<area shape="rect" title="cellMatrix" alt="" coords="372,516,380,524">
