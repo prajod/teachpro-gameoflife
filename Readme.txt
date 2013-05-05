@@ -5,7 +5,7 @@ Algorithm
 The Game of Life
 
 How to run
-1. Easiest way is to import the zip file prajod-gameoflife-src-and-test-testreport-eclipsearchive using Eclipse's import-> archive feature
+1. Easiest way is to import the zip file prajod-gameoflife-src-and-test-eclipsearchive using Eclipse's import-> archive feature
 2. The build.xml file in this directory can be used to run from the commandline. You will have to change the classpath entries in build.xml to match yours
 
 Folders:
